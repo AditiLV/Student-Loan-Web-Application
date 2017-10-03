@@ -1,0 +1,179 @@
+﻿body {
+    background-image: url('Images/sky.jpg');
+    margin-left:9.5%;
+    margin-right:9.5%;
+    margin-top:1.5%;
+
+}
+table{    margin-top: 0px;
+}
+
+td.copyright {
+    padding: 2px;
+    text-align:center;
+}
+
+.img2{
+    width:415px;height:275px;
+    
+}
+.img3{
+    width:415px;height:275px;
+    
+}
+h1{
+    text-align:left;
+    padding:8px;
+}
+p.info {
+    font-family: "Times New Roman", Times, serif;
+     font-size: 130%;
+      line-height: 150%;
+       text-align: justify;
+       padding:10px;
+      
+}
+.infoblock{
+    background-color:#CCCCCC;
+     border:3px solid #CCCCCC;
+
+}
+.sidebar{
+     background-color:  #cccc99;
+     width:500px;
+     height:auto;
+         text-align:left;
+         border:3px solid #CCCC99;
+}
+ul.ulhomepage {
+    list-style-type: none;
+ 
+    
+      
+}
+
+.comodoblock{
+   vertical-align:top;
+   padding-top:10px;
+   margin-left:10px;
+}
+.formsborder{
+    border: 1px solid black;
+        border-collapse: collapse;
+
+
+}
+td.formsaling{
+    text-align:center;
+
+}
+p.formstitle{
+    font-size:22px;
+  
+}
+
+li.lihomepage a {
+    display: block;
+    color: #000;
+    padding: 15px 0px;
+    font-size: 120%;
+}
+li.lihomepage a:hover{
+    font-size: 125%;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 80px;
+    padding: 12px 50px;
+        list-style-type: none;
+
+}
+ul.breadcrumb {
+    padding: 8px 16px;
+    list-style: none;
+    background-color: #eee;
+    margin-top:-0.2%;
+    font-size:20px;;
+
+}
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+}
+ul.breadcrumb li {display:inline;font-size:100%;   
+}
+
+ul.breadcrumb li a {color: green;}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+h2.title{
+    text-align:center;margin-top:-0.5%;
+    color:green;
+}
+a.pageref{
+    padding-left:0.5%;
+   color:green;
+}
+
+a.nevmenu{
+    text-decoration:none;
+}
+p.alpha{
+    text-align:justify;
+    font-size:18px;
+    
+}
+.tdinfo{
+        background-color:rgba(137, 234, 219, 0.73);
+
+}
+.contactus{
+    font-size:22px;
+    border: 1px solid black;
+        border-collapse: collapse;
+        text-align:justify;
+          line-height: 45px;
+border-color:#040521;
+width:100%;
+
+}
+
+#middletable{
+    text-align:center;
+
+}
+
+#LinkButton2{
+    text-decoration : none;
+}
+#btnlogin{
+margin-top:5%;
+}
+#LinkButton2{
+    float :right;
+    text-decoration:underline;
+    height: 22px;
+}
+#CheckBox1{
+    margin-left:2%;
+}
+.highlight{
+background-color:yellow;}
+
+#lblyouraccountdetails{
+    text-align:center;
+}
+.accountdetails{
+    float:right;
+}
+tr#hhh1:nth-child(even){background-color: #f2f2f2}
+
+/*#Tablepassword{
+    margin-top:5%;
+    margin-bottom:2%;
+
+}*/

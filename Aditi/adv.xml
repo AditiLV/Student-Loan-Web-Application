@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>https://www.sbi.co.in/portal/web/interest-rates/education-loan-scheme/</NavigateUrl>
+    <AlternateText>State Bank of India Education Loan</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan5</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>https://www.discover.com/student-loans/</NavigateUrl>
+    <AlternateText>Discover Education Loan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan4</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>http://www.credila.com/</NavigateUrl>
+    <AlternateText>Credila Education Loan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan3</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>http://www.hdfcbank.com/personal/products/loans/educational-loan/education-loan-for-indian-education</NavigateUrl>
+    <AlternateText>HDFC Education Loan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>http://www.simpletuition.com/</NavigateUrl>
+    <AlternateText>Simple Tution Education Loan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>https://www.navyfederal.org/products-services/loans/student-loans/index.php</NavigateUrl>
+    <AlternateText>Navy Federal Education Loan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan5</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>http://www.educationconnection.com/financial-aid/private-student-loans.aspx</NavigateUrl>
+    <AlternateText>Education Connection</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan4</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>https://www.wellsfargo.com/student/</NavigateUrl>
+    <AlternateText>Wells Fargo Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan3</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>https://myfedloan.org/</NavigateUrl>
+    <AlternateText>FedLoan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>AdImages/1.jpg</ImageUrl>
+    <NavigateUrl>https://myfedloan.org/</NavigateUrl>
+    <AlternateText>FedLoan Services</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>loan1</Keyword>
+  </Ad>
+</Advertisements>
